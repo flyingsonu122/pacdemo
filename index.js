@@ -1,1 +1,4 @@
-alert("Hello, World!");
+module.exports = function() {
+
+    console.log("Hello from Github Package Registery!");
+}
